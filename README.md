@@ -16,10 +16,32 @@
   </a>
 </p>
 
-##
-## Lastest Projects
--
-##
+## 🚀 On Progress
+
+- 👨‍💻 Currently developing personal project: **Data Pipeline Study Case (News API's)**
+- 📚 Currently learning: **Git & GitHub**
+
+## 📑 Next Project
+
+| Project | Type | Complexity | Status |
+|--------|------|------------|--------|
+| Coming Soon 🚧 | Personal Project | 🟢 Low    | Planning |
+| Coming Soon 🚧 | Freelance Project| 🟡 Medium | Planning |
+| Coming Soon 🚧 | Personal Project | 🔴 High   | Planning |
+
+
+## 🗃️ Latest Projects
+
+| Project | Code | Documentation |
+|---------|------|---------------|
+|Coming Soon 🚧|
+|Coming Soon 🚧|
+|Coming Soon 🚧|
+
+
+
+## 
+
 
 
 <!--
