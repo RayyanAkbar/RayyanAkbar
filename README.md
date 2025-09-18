@@ -1,9 +1,5 @@
 ![Intro Banner](image/intro_version_2.png)
 
-<h5 align="center">
-  Let's Connect
-</h5>
-
 <p align="center">
   <a href="mailto:rayyanakbari5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
