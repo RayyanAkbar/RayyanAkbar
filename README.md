@@ -1,6 +1,10 @@
 ![Intro Banner](image/intro_version_2.png)
 
 <p align="center">
+  Data Engineer with a strong analytical foundation from experience as a Warehouse Analyst, complemented by freelance and personal projects focused on building scalable data pipelines, automating ETL processes, and processing large-scale datasets using Python, SQL, Airflow, Spark, and Hadoop
+<p>
+
+<p align="center">
   <a href="mailto:rayyanakbari5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -14,9 +18,9 @@
 
 ---
 
-<p align="center">
-  Data Engineer with a strong analytical foundation from experience as a Warehouse Analyst, complemented by freelance and personal projects focused on building scalable data pipelines, automating ETL processes, and processing large-scale datasets using Python, SQL, Airflow, Spark, and Hadoop
-<p>
+## Lastest Projects
+
+---
 
 
 
