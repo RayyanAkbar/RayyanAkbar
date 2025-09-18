@@ -1,4 +1,7 @@
-## Hi there 👋
+![Intro Banner](image/intro_version_2.png)
+
+##### Hey, I'm Lalu Rayyan A. I. 👋🏼
+---
 
 <!--
 **RayyanAkbar/RayyanAKbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
