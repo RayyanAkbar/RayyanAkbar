@@ -14,9 +14,9 @@
 
 ---
 
-<h5 align="center">
-  📍Based in Jakarta, Indonesia | 
-</h5>
+<p align="center">
+  Data Engineer with a strong analytical foundation from experience as a Warehouse Analyst, complemented by freelance and personal projects focused on building scalable data pipelines, automating ETL processes, and processing large-scale datasets using Python, SQL, Airflow, Spark, and Hadoop
+<p>
 
 
 
