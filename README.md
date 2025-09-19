@@ -24,20 +24,19 @@
 ## 📑 Next Project
 
 | Project | Type | Complexity | Status |
-|--------|------|------------|--------|
-| Coming Soon 🚧 | Personal Project | 🟢 Low    | Planning |
-| Coming Soon 🚧 | Freelance Project| 🟡 Medium | Planning |
-| Coming Soon 🚧 | Personal Project | 🔴 High   | Planning |
+|:--------:|:------:|:------------:|:--------:|
+| Coming Soon 🚧 | - | - | - |
+| Coming Soon 🚧 | - | - | - |
+| Coming Soon 🚧 | - | - | - |
 
 
 ## 🗃️ Latest Projects
 
 | Project | Code | Documentation |
-|---------|------|---------------|
-|Coming Soon 🚧|
-|Coming Soon 🚧|
-|Coming Soon 🚧|
-
+|:---------:|:------:|:---------------:|
+|Coming Soon 🚧| - | - |
+|Coming Soon 🚧| - | - |
+|Coming Soon 🚧| - | - |
 
 
 ## 
